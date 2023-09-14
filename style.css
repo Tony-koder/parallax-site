@@ -36,18 +36,18 @@ body, html {
 }
 
 .pimg1 {
-    background-image: url(img/elliot.jpg);
+    background-image: url(media/elliot.jpg);
     min-height: 100%;
 
 }
 
 .pimg2 {
-    background-image: url(img/darlene.jpg);
+    background-image: url(media/darlene.jpg);
     min-height: 100%;
 }
 
 .pimg3 {
-    background-image: url(img/tyrell.jpg);
+    background-image: url(media/tyrell.jpg);
     min-height: 100%;
 }
 
